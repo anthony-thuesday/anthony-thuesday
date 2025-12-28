@@ -5,6 +5,7 @@ My name is **Anthony Thuesday**
 🎓 **Education**  
 - I am currently a **junior at Rutgers University – New Brunswick**  
 - Pursuing a **double major in Data Science & Economics**
+
 📊 **Interests**  
 - 🏀 Sports analytics & modeling  
 - 📈 Financial markets & quantitative analysis  
