@@ -1,16 +1,29 @@
-## Hi there 👋
+## Hi there 👋  
+My name is **Anthony Thuesday**  
+(he / him) //
 
-<!--
-**anthony-thuesday/anthony-thuesday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**  
+- I am currently a **junior at Rutgers University – New Brunswick**  
+- Pursuing a **double major in Data Science & Economics**
 
-Here are some ideas to get you started:
+📊 **Interests**  
+- 🏀 Sports analytics & modeling  
+- 📈 Financial markets & quantitative analysis  
+- 🤖 Machine learning & predictive modeling  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠 **What I’m working on**  
+- Building data-driven models using Python & SQL  
+- Applying statistics and ML to real-world sports and market data  
+
+🌱 **Currently learning**  
+- Advanced machine learning techniques  
+- Model deployment & data pipelines  
+
+💬 **Ask me about**  
+- Sports data projects  
+- Data science interviews  
+- Analytics in finance or sports  
+
+⚡ **Fun fact**  
+- I am a lifelong New York Knicks fan.
+
